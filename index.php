@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+ <header>
+ ヘッター
+ </header>
     
 </body>
 </html>
