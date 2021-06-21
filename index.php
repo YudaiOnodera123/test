@@ -10,6 +10,9 @@
  <header>
  ヘッター
  </header>
+ <main>
+    コンテンツ
+ </main>
     
 </body>
 </html>
